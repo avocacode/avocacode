@@ -10,3 +10,18 @@ With a deep passion for **Customer Experience, Fintech, InfoSec,** and **AI-driv
 - 🔭 Currently working on top-secret projects to reshape industries.
 - 🌱 Always expanding my knowledge and contributing to open-source communities.
 - 🚀 On a mission to push the boundaries of what's possible with code.
+
+<a href="https://github.com/avocacode/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avocacode&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/avocacode/avocacode.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avocacode&repo=avocacode.github.io&theme=buefy" />
+</a>
+
+
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/avocacode)
+</div>
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=avocacode.avocacode)
