@@ -8,9 +8,9 @@
 👨‍💻 Saya seorang pengembang yang percaya kalau kode bukan hanya sekadar serangkaian perintah, tapi juga ekspresi kreatif yang dapat mengubah hidup orang banyak.
 
 **Sedikit tentang saya:**
-- 🔭 **Saat ini** sedang sibuk dengan beberapa proyek seru yang semoga bisa merombak cara kita melihat teknologi sehari-hari.
-- 🌱 **Selalu belajar hal baru** – dari pengembangan teknologi AI, tren terbaru fintech, hingga bagaimana mengamankan informasi di dunia yang makin terhubung.
-- 🚀 **Misi utama saya** adalah membuat kode yang bukan cuma berfungsi tapi juga bermakna.
+- 🔭 Sedang sibuk dengan proyek-proyek seru untuk inovasi teknologi sehari-hari.
+- 🌱 Terus belajar dari tren AI, fintech, hingga keamanan informasi.
+- 🚀 Misi: membuat kode yang berfungsi sekaligus bermakna.
 
 📫 **Jangan ragu untuk saling terhubung!**
 Suka berdiskusi soal teknologi, punya ide kolaborasi, atau sekadar mau ngobrol santai soal perkembangan teknologi? Saya selalu terbuka untuk hal baru!
