@@ -10,11 +10,11 @@
 **Sedikit tentang saya:**
 - 🔭 **Saat ini** sedang sibuk dengan beberapa proyek seru yang semoga bisa merombak cara kita melihat teknologi sehari-hari.
 - 🌱 **Selalu belajar hal baru** – dari pengembangan teknologi AI, tren terbaru fintech, hingga bagaimana mengamankan informasi di dunia yang makin terhubung.
-- 🚀 **Misi utama saya** adalah membuat kode yang bukan cuma berfungsi tapi juga bermakna. Bagi saya, setiap baris kode punya potensi besar untuk menciptakan sesuatu yang bermanfaat.
+- 🚀 **Misi utama saya** adalah membuat kode yang bukan cuma berfungsi tapi juga bermakna.
 
 📫 **Jangan ragu untuk saling terhubung!**
 Suka berdiskusi soal teknologi, punya ide kolaborasi, atau sekadar mau ngobrol santai soal perkembangan teknologi? Saya selalu terbuka untuk hal baru!
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=avocacode.avocacode)
-
 > *"Jangan takut mencoba dan membuat kesalahan. Kadang, kesalahan itu adalah jalan terbaik menuju inovasi sejati!"*
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=avocacode.avocacode)
