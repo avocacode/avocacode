@@ -1,27 +1,20 @@
-# 👋 Hey there, I'm Avoca Code!
-**Architect of the digital unknown. Navigating the shadows of the web, crafting echoes in the void.**
+# 👋 Halo, Saya Avoca Code!
+**Seniman dunia digital. Menerangi internet dengan website yang cemerlang.**
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
 
-With a deep passion for **Customer Experience, Fintech, InfoSec,** and **AI-driven technologies**. I specialize in turning complex challenges into scalable, innovative solutions.
+👨‍💻 Saya seorang pengembang yang percaya kalau kode bukan hanya sekadar serangkaian perintah, tapi juga ekspresi kreatif yang dapat mengubah hidup orang banyak.
 
-- 🔭 Currently working on top-secret projects to reshape industries.
-- 🌱 Always expanding my knowledge and contributing to open-source communities.
-- 🚀 On a mission to push the boundaries of what's possible with code.
+**Sedikit tentang saya:**
+- 🔭 **Saat ini** sedang sibuk dengan beberapa proyek seru yang semoga bisa merombak cara kita melihat teknologi sehari-hari.
+- 🌱 **Selalu belajar hal baru** – dari pengembangan teknologi AI, tren terbaru fintech, hingga bagaimana mengamankan informasi di dunia yang makin terhubung.
+- 🚀 **Misi utama saya** adalah membuat kode yang bukan cuma berfungsi tapi juga bermakna. Bagi saya, setiap baris kode punya potensi besar untuk menciptakan sesuatu yang bermanfaat.
 
-<a href="https://github.com/avocacode/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avocacode&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/avocacode/avocacode.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avocacode&repo=avocacode.github.io&theme=buefy" />
-</a>
-
-
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/avocacode)
-</div>
-
+📫 **Jangan ragu untuk saling terhubung!**
+Suka berdiskusi soal teknologi, punya ide kolaborasi, atau sekadar mau ngobrol santai soal perkembangan teknologi? Saya selalu terbuka untuk hal baru!
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=avocacode.avocacode)
+
+> *"Jangan takut mencoba dan membuat kesalahan. Kadang, kesalahan itu adalah jalan terbaik menuju inovasi sejati!"*
