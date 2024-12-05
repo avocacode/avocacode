@@ -17,4 +17,6 @@ Suka berdiskusi soal teknologi, punya ide kolaborasi, atau sekadar mau ngobrol s
 
 > *"Jangan takut mencoba dan membuat kesalahan. Kadang, kesalahan itu adalah jalan terbaik menuju inovasi sejati!"*
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=avocacode&theme=vue)](https://git.io/streak-stats)
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=avocacode.avocacode)
