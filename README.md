@@ -1,5 +1,5 @@
 # 👋 Halo, Saya Avoca Code!
-**Seniman dunia digital. Menerangi internet dengan website yang cemerlang.**
+**Seniman dunia digital. Menerangi internet dengan website yang cemerlang..**
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
